@@ -12,7 +12,7 @@ title                    : "Ting-Yu Liang (Michelle)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://tliangac.github.io/michelleliang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tingyuliang0116.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tliangac/michelleliang.github.io"
 
